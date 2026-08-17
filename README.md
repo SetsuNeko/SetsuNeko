@@ -90,24 +90,3 @@
 <!--  底部波浪装饰 -->
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12,14,20&height=150&section=footer&text=%20SetsuNeko%20&fontSize=20&fontAlignY=70&animation=fadeIn" width="100%" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Coolapk-00A1D6?style=for-the-badge&logo=android&logoColor=white" alt="Coolapk" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</div>
-
-<p align="center">
-  <i>往昔を受け継ぎ終点を越え、再び旅立ち未来へ向かう - SetsuNeko</i>
-</p>
-  <a href="https://space.bilibili.com/YOUR_BILIBILI_ID"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
-  <a href="https://www.coolapk.com/u/YOUR_COOLAPK_ID"><img src="https://img.shields.io/badge/Coolapk-178AC3?style=for-the-badge&logo=android&logoColor=white" alt="Coolapk"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</div>
-
-<p align="center">
-  <i>往昔を受け継ぎ終点を越え、再び旅立ち未来へ向かう - SetsuNeko</i>
-</p>
-
