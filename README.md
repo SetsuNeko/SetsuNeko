@@ -86,3 +86,8 @@
 <div align="center">
   <i>往昔を受け継ぎ終点を越え、再び旅立ち未来へ向かう - SetsuNeko</i>
 </div>
+<!-- 🐍 贪吃蛇动画区域 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SetsuNeko/SetsuNeko/output/snake.svg" alt="snake" />
+</div>
+
