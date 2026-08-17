@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Codlapse-black?style=for-the-badge&logo=codepen&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coolapk-green?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
