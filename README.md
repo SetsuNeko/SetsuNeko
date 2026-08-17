@@ -1,92 +1,88 @@
-<!--  顶部横幅与动态打字机 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12,14,20&height=200&section=header&text=SetsuNeko&fontSize=40&animation=fadeIn&fontAlignY=38&desc=往昔を受け継ぎ終点を越え、再び旅立ち未来へ向かう&descAlignY=60&descAlign=50" width="100%" />
-  
+  <!-- 顶部波浪横幅 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,18,11,6&height=150&section=header&text=SetsuNeko&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+
   <br>
-  
-  <!-- 动态打字机效果 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SetsuNeko+%F0%9F%91%8B;Welcome+to+my+little+world+%E2%9C%A8;Loading+Future...+%F0%9F%9A%80" alt="Typing SVG" />
+
+  <!-- 动态打字机 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SetsuNeko+%F0%9F%91%8B;Welcome+to+my+little+world+%E2%9C%A8;Loading+Future...+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <i>すべてを忘れる前に、このそよ風に別れを告げなければならない</i><br>
+  <i>往昔を受け継ぎ終点を越え、再び旅立ち未来へ向かう</i>
+</p>
 
 ---
 
-<!--  个人简介与状态 -->
+### 👤 About Me
+
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-FFB7C5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-ShenZhen-9B59B6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROLE-Developer-FF69B4?style=for-the-badge&logo=codefactor&logoColor=white" />
-  
+  <!-- 粉丝数徽章 (已修复) -->
+  <a href="https://github.com/SetsuNeko">
+    <img src="https://img.shields.io/github/followers/SetsuNeko?label=Followers&style=social" alt="Followers" />
+  </a>
+
   <br><br>
-  
-  <a href="https://github.com/SetsuNeko">
-    <img src="https://img.shields.io/github/followers/SetsuNeko?label=Followers&style=social&color=FFB7C5" alt="Followers" />
-  </a>
-  <a href="https://github.com/SetsuNeko">
-    <img src="https://img.shields.io/github/following/SetsuNeko?label=Following&style=social&color=9B59B6" alt="Following" />
-  </a>
+
+  <!-- 状态条 (替代原来的红框数据) -->
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FFB7C5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-SHENZHEN-purple?style=for-the-badge&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-pink?style=for-the-badge&logo=codefactor&logoColor=white" />
 </div>
 
 ---
 
-<!--  开发环境 -->
-<h2 align="left"> Environment</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/Windows_11_IoT_LTSC-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubuntu_24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xiaomi_HyperOS_4-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ColorOS_16-009B77?style=for-the-badge&logo=oppo&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### 💻 Environment & Tech Stack
 
----
-
-<!-- ️ 技术栈 -->
-<h2 align="left">️ Tech Stack</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Makefile-4EAA25?style=flat-square&logo=cmake&logoColor=white" />
-</div>
-
----
-
-<!--  设备清单 -->
-<h2 align="left"> Devices in Use</h2>
-<div align="left">
-  <b>Phone:</b>
-  <ul>
-    <li> OnePlus Ace 5 (<i>ColorOS 16</i>)</li>
-    <li> Xiaomi 12 Pro Dimensity (<i>HyperOS 4</i>)</li>
-  </ul>
-  
-  <b>Pad:</b>
-  <ul>
-    <li> REDMI Pad SE (<i>HyperOS</i>)</li>
-  </ul>
-</div>
-
----
-
-<!--  社交链接 -->
-<h2 align="center"> Connect With Me</h2>
+<!-- 系统环境 -->
 <div align="center">
-  <a href="https://t.me/SetsuNeko_Telegram">
+  <img src="https://img.shields.io/badge/WINDOWS_11_IOT_LTSC-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/KUBUNTU_24.04-orange?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/XIAOMI_HYPEROS_4-orange?style=for-the-badge&logo=xiaomi&logoColor=white" />
+</div>
+
+<br>
+
+<!-- 技术栈 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-4EAA25?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-green?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📱 Devices in Use
+
+- **Phone:**
+  - OnePlus Ace 5 (ColorOS 16)
+  - Xiaomi 12 Pro Dimensity (HyperOS 4)
+- **Pad:**
+  - REDMI Pad SE (HyperOS)
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+  <a href="#">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://b23.tv/3dr9Hdr">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <a href="https://www.coolapk.com/u/28584094">
-    <img src="https://img.shields.io/badge/Coolapk-1AAD19?style=for-the-badge&logo=android&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Codlapse-black?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="https://twitter.com/LeeEasonX">
+  <a href="#">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
-<!--  底部波浪装饰 -->
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12,14,20&height=150&section=footer&text=%20SetsuNeko%20&fontSize=20&fontAlignY=70&animation=fadeIn" width="100%" />
+
+<div align="center">
+  <i>往昔を受け継ぎ終点を越え、再び旅立ち未来へ向かう - SetsuNeko</i>
+</div>
