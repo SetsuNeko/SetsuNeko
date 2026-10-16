@@ -60,7 +60,7 @@
   - OnePlus Ace 5 (ColorOS 16)
   - Xiaomi 12 Pro Dimensity (HyperOS 4)
 - **Pad:**
-  - REDMI Pad SE (HyperOS)
+  - Xiaomi Pad 6 Pro (HyperOS)
 
 ---
 
